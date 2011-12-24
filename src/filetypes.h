@@ -82,4 +82,4 @@
 #define lstat stat
 #endif
 int lstat ();
-int stat ();
+//int stat ();
