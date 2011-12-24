@@ -2,3 +2,4 @@ cscope*
 *.o
 *.a
 .deps
+config.log
