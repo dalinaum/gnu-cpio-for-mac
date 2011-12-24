@@ -1,8 +1,0 @@
-c-ctype.o c-ctype.o: c-ctype.c ../config.h c-ctype.h \
-  /usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stdbool.h
-
-../config.h:
-
-c-ctype.h:
-
-/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stdbool.h:
