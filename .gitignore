@@ -9,3 +9,4 @@ config.h
 Makefile
 po/Makefile.in
 tests/atlocal
+gnu/sys
