@@ -3,3 +3,9 @@ cscope*
 *.a
 .deps
 config.log
+Makefile
+po/POTFILES
+config.h
+Makefile
+po/Makefile.in
+tests/atlocal
